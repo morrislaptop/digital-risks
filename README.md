@@ -9,7 +9,7 @@ The task is a simplified version of something that we already do here at Digital
 ## Requirements
 
 -   You must include at least one test
--   Create a private repo (GitHub does this for free) and invite morrislaptop
+-   Create a PRIVATE repo (GitHub does this for free) and invite morrislaptop
 -   Include a README on how to run your solution
 
 ## Guidelines
